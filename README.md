@@ -1,5 +1,6 @@
 
-![image](https://github.com/user-attachments/assets/5d03dff3-e4d6-4ded-8a42-0ab154bd7e42)
+![120](https://github.com/user-attachments/assets/7fc4b8e9-d9fd-47e6-934f-5fd1cee9ac89)
+
 
 ## 📱 [RegoNow] iOS 앱 개발 (2024.01 – 2024.04)
 
